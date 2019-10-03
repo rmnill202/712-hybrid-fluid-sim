@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["updates"],{"6e5c":function(t,e,n){"use strict";n.r(e);var i=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("div",{staticClass:"center-title display-2 font-weight-thin"},[t._v("Updates")]),n("div",{staticClass:"font-italic update-text"},[t._v("Under construction...")])])}],a={},c=a,l=n("2877"),r=Object(l["a"])(c,i,s,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=updates.acf028e9.js.map
