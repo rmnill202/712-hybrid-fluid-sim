@@ -10,7 +10,7 @@ export default new Vuetify({
   theme: {
     themes: {
       light: {
-        primary: "#05386b"
+        primary: "#05386b",
       }
     }
   }

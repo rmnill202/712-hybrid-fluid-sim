@@ -5,7 +5,7 @@
     <div>
 
       <!-- Navigation Bar - Tablet and Desktop -->
-      <v-toolbar dense flat>
+      <v-toolbar dense flat> <!-- background-color: #dfe7f1 -->
         <v-app-bar-nav-icon class="hidden-sm-and-up" @click="drawerOpen = !drawerOpen"/>
         <v-spacer/>
         <v-toolbar-items class="hidden-xs-only">
